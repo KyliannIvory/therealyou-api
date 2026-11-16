@@ -7,8 +7,7 @@
 Backend of **TheRealYou**, built as a **modular monolith** with Spring Modulith.
 The web app lives in [therealyou-web](https://github.com/KyliannIvory/therealyou-web).
 
-> 🚧 **Status:** work in progress. See the [roadmap](#roadmap) and the
-> [project board](https://github.com/users/KyliannIvory/projects/TODO).
+> 🚧 **Status:** work in progress. 
 
 ## Features
 
